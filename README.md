@@ -137,7 +137,8 @@ The research presents a comparative study of Traditional Otsu Thresholding, Exis
 * Demonstrated improved road continuity and reduced segmentation noise compared to baseline methods.
 * Generated GIS-compatible road network outputs suitable for real-world applications.
 
-📄 The complete research paper is available in the **paper** folder of this repository.
+📄 **Research Paper PDF:** [View Paper](./paper/Road_Network_Research_Paper.pdf)
+
 
 
 ## Author
