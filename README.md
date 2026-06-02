@@ -119,6 +119,27 @@ All output screenshots are available in the **results** folder.
 
 ---
 
+---
+
+## Research Paper
+
+This project was also documented as a research paper titled:
+
+**"Automated Road Network Segmentation from Satellite Images Using a Modified U-Net Model"**
+
+The research presents a comparative study of Traditional Otsu Thresholding, Existing Simple U-Net, and the Proposed Modified U-Net for road extraction from satellite imagery.
+
+### Research Contributions
+
+* Developed a Modified U-Net architecture with enhanced feature extraction capabilities.
+* Trained and evaluated the model using the Massachusetts Roads Dataset.
+* Achieved 97.1% pixel accuracy, Dice Coefficient of 0.72, and IoU Score of 0.56.
+* Demonstrated improved road continuity and reduced segmentation noise compared to baseline methods.
+* Generated GIS-compatible road network outputs suitable for real-world applications.
+
+📄 The complete research paper is available in the **paper** folder of this repository.
+
+
 ## Author
 
 **Ramya Sree**
